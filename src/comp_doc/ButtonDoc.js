@@ -35,20 +35,8 @@ export default function ButtonDoc() {
       </div>
       <br />
       <div className="code-container">
-        {/* <iframe
-          src="https://carbon.now.sh/embed?bg=rgba%28191%2C220%2C238%2C0.22%29&t=vscode&wt=none&l=jsx&ds=false&dsyoff=20px&dsblur=73px&wc=true&wa=true&pv=0px&ph=0px&ln=false&fl=1&fm=dm&fs=15px&lh=133%25&si=false&es=4x&wm=false&code=%253Cbutton%2520class%253D%2522primary-btn%2520curved-edge-btn%2522%253Eprimary%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522secondary-btn%2520curved-edge-btn%2522%253Esecondary%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522info-btn%2520curved-edge-btn%2522%253Einfo%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522success-btn%2520curved-edge-btn%2522%253Esuccess%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522warning-btn%2520curved-edge-btn%2522%253Ewarning%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522danger-btn%2520curved-edge-btn%2522%253Edanger%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522light-btn%2520curved-edge-btn%2522%253Elight%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522dark-btn%2520curved-edge-btn%2522%253Edark%253C%252Fbutton%253E"
-          title="avatar"
-          style={{
-            width: "566px",
-            height: "226px",
-            border: "none",
-            transform: "scale(1)",
-            overflow: "hidden"
-          }}
-          sandbox="allow-scripts allow-same-origin"
-        ></iframe> */}
         <iframe
-          className="iframe-container"
+          className="iframe-container height-300"
           title="button"
           src="https://carbon.now.sh/embed?bg=rgba%28255%2C255%2C255%2C0.08%29&t=vscode&wt=none&l=jsx&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=0px&ph=0px&ln=false&fl=1&fm=Hack&fs=12.5px&lh=133%25&si=false&es=1x&wm=false&code=%253Cbutton%2520class%253D%2522primary-btn%2520curved-edge-btn%2522%253E%250A%2520%2520primary%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522secondary-btn%2520curved-edge-btn%2522%253E%250A%2520%2520secondary%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522info-btn%2520curved-edge-btn%2522%253E%250A%2520%2520info%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522success-btn%2520curved-edge-btn%2522%253E%250A%2520%2520success%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522warning-btn%2520curved-edge-btn%2522%253E%250A%2520%2520warning%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522danger-btn%2520curved-edge-btn%2522%253E%250A%2520%2520danger%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522light-btn%2520curved-edge-btn%2522%253E%250A%2520%2520light%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522dark-btn%2520curved-edge-btn%2522%253E%250A%2520%2520dark%250A%253C%252Fbutton%253E"
           sandbox="allow-scripts allow-same-origin"
@@ -76,7 +64,7 @@ export default function ButtonDoc() {
       <br />
       <div className="code-container">
         <iframe
-          className="iframe-container"
+          className="iframe-container height-300"
           title="button"
           src="https://carbon.now.sh/embed?bg=rgba%28255%2C255%2C255%2C0.08%29&t=vscode&wt=none&l=jsx&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=0px&ph=0px&ln=false&fl=1&fm=Hack&fs=12.5px&lh=133%25&si=false&es=1x&wm=false&code=%253Cbutton%2520class%253D%2522primary-outline-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520curved-edge-btn%2522%253E%250A%2520%2520primary%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522secondary-outline-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520curved-edge-btn%2522%253E%250A%2520%2520secondary%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522info-outline-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520curved-edge-btn%2522%253E%250A%2520%2520info%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522success-outline-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520curved-edge-btn%2522%253E%250A%2520%2520success%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522warning-outline-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520curved-edge-btn%2522%253E%250A%2520%2520warning%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522danger-outline-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520curved-edge-btn%2522%253E%250A%2520%2520danger%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522light-outline-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520curved-edge-btn%2522%253E%250A%2520%2520light%250A%253C%252Fbutton%253E%250A%253Cbutton%2520class%253D%2522dark-outline-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520curved-edge-btn%2522%253E%250A%2520%2520dark%250A%253C%252Fbutton%253E"
           sandbox="allow-scripts allow-same-origin"
@@ -120,7 +108,7 @@ export default function ButtonDoc() {
             className="card cw vertical-card container"
           >
             <button className="floating-action-btn round-btn bottom-right-btn ">
-              <FaPaperPlane size="20px"  />
+              <FaPaperPlane size="20px" />
             </button>
           </div>
         </div>
@@ -138,7 +126,7 @@ export default function ButtonDoc() {
       <br />
       <div className="code-container">
         <iframe
-          className="iframe-container"
+          className="iframe-container height-250"
           title="button"
           src="https://carbon.now.sh/embed?bg=rgba%28255%2C255%2C255%2C0.08%29&t=vscode&wt=none&l=jsx&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=0px&ph=0px&ln=false&fl=1&fm=Hack&fs=12.5px&lh=133%25&si=false&es=1x&wm=false&code=%253Cbutton%2520className%253D%2522floating-action-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520round-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520bottom-right-btn%2520%2522%253E%250A%2520%2520%2520%2520%253CFaPaperPlane%2520size%253D%252220px%2522%250A%2520%2520%2520%2520%2520%2520color%253D%2522white%2522%2520%252F%253E%250A%253C%252Fbutton%253E%250A%253Cbutton%2520className%253D%2522floating-action-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520round-btn%2520%250A%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520%2520bottom-right-btn%2522%253E%250A%2520%2520%2520%2520%253CFaFolderPlus%2520size%253D%252220px%2522%2520%250A%2520%2520%2520%2520%2520%2520color%253D%2522white%2522%2520%252F%253E%250A%253C%252Fbutton%253E"
           sandbox="allow-scripts allow-same-origin"

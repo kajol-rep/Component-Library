@@ -11,7 +11,7 @@ export default function AlertDoc() {
       </p>
       <p className="medium-text">
         Download the component from here{" "}
-        <button class="primary-outline-btn curved-edge-btn">
+        <button className="primary-outline-btn curved-edge-btn">
           <a
             className="link-btn"
             href="https://wrap-it-library.netlify.app/Alert.jsx"

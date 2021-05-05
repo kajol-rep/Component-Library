@@ -42,7 +42,7 @@ export default function ModalDoc() {
       <br />
       <div className="code-container">
         <iframe
-          className="iframe-container"
+          className="iframe-container height-250"
           title="modal"
           src="https://carbon.now.sh/embed?bg=rgba%28255%2C255%2C255%2C0.08%29&t=vscode&wt=none&l=jsx&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=0px&ph=0px&ln=false&fl=1&fm=Hack&fs=12.5px&lh=133%25&si=false&es=1x&wm=false&code=%253Cbutton%2520onClick%253D%257BhandleOpen%257D%253E%250A%2520%2520Open%2520Modal%250A%253C%252Fbutton%253E%250A%250A%253CModal%2520open%253D%257Bopen%257D%2520%250A%2520%2520onclose%253D%257BhandleClose%257D%253E%250A%2520%2520%2520A%2520modal%2520is%2520a%2520dialog%2520box%2520or%2520%250A%2520%2520popup%2520window%2520that%2520is%2520displayed%2520%250A%2520%2520on%2520top%2520ofthe%2520current%2520page.%250A%253C%252FModal%253E"
           sandbox="allow-scripts allow-same-origin"
@@ -67,7 +67,7 @@ export default function ModalDoc() {
       <br />
       <div className="code-container">
         <iframe
-          className="iframe-container"
+          className="iframe-container height-250"
           title="modal"
           src="https://carbon.now.sh/embed?bg=rgba%28255%2C255%2C255%2C0.08%29&t=vscode&wt=none&l=jsx&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=0px&ph=0px&ln=false&fl=1&fm=Hack&fs=12.5px&lh=133%25&si=false&es=1x&wm=false&code=%253Cbutton%2520onClick%253D%257BhandleOpen%257D%253E%250A%2520%2520Open%2520Modal%250A%253C%252Fbutton%253E%250A%250A%253CModal%2520open%253D%257Bopen%257D%2520%250A%2520%2520onclose%253D%257BhandleClose%257D%2520%250A%2520%2520dismissable%253E%250A%2520%2520%2520A%2520modal%2520is%2520a%2520dialog%2520box%2520or%250A%2520%2520popup%2520window%2520that%2520is%2520displayed%2520%250A%2520%2520on%2520top%2520of%2520the%2520current%2520page.%250A%253C%252FModal%253E"
           sandbox="allow-scripts allow-same-origin"
@@ -92,7 +92,7 @@ export default function ModalDoc() {
       <br />
       <div className="code-container">
         <iframe
-          className="iframe-container"
+          className="iframe-container height-250"
           title="modal"
           src="https://carbon.now.sh/embed?bg=rgba%28255%2C255%2C255%2C0.08%29&t=vscode&wt=none&l=jsx&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=0px&ph=0px&ln=false&fl=1&fm=Hack&fs=12.5px&lh=133%25&si=false&es=1x&wm=false&code=%253Cbutton%2520onClick%253D%257BhandleOpen%257D%253E%250A%2520%2520Open%2520Modal%250A%253C%252Fbutton%253E%250A%250A%253CModal%2520open%253D%257Bopen%257D%2520%250A%2520%2520onclose%253D%257BhandleClose%257D%2520%250A%2520%2520title%253D%2522This%2520is%2520Title%2522%2520%250A%2520%2520dismissable%253E%250A%2520%2520%2520A%2520modal%2520is%2520a%2520dialog%2520box%2520or%250A%2520%2520popup%2520window%2520that%2520is%2520displayed%250A%2520%2520on%2520top%2520of%2520the%2520current%2520page.%250A%253C%252FModal%253E"
           sandbox="allow-scripts allow-same-origin"
