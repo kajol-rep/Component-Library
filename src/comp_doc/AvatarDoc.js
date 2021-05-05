@@ -43,7 +43,7 @@ export default function AvatarDoc() {
       <br />
       <div className="code-container">
         <iframe
-          className="iframe-container"
+          className="iframe-container height-250"
           title="avatar"
           src="https://carbon.now.sh/embed?bg=rgba%28255%2C255%2C255%2C0.08%29&t=vscode&wt=none&l=jsx&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=0px&ph=0px&ln=false&fl=1&fm=Hack&fs=12.5px&lh=133%25&si=false&es=1x&wm=false&code=%253CAvatar%250A%2520%2520src%253D%2522https%253A%252F%252Favatarfiles.alphacoders.%250A%2520%2520%2520%2520%2520%2520%2520com%252F699%252Fthumb-69905.png%2522%250A%2520%2520alt%253D%2522profile%2520image%2522%250A%2520%2520size%253D%252230px%2522%250A%2520%253E%253C%252FAvatar%253E%250A%253CAvatar%250A%2520%2520src%253D%2522https%253A%252F%252Favatarfiles.alphacoders.%250A%2520%2520%2520%2520%2520%2520%2520com%252F699%252Fthumb-69905.png%2522%250A%2520%2520alt%253D%2522profile%2520image%2522%250A%2520%2520size%253D%252250px%2522%250A%2520%2520%253E%253C%252FAvatar%253E%250A%253CAvatar%250A%2520%2520src%253D%2522https%253A%252F%252Favatarfiles.alphacoders.%250A%2520%2520%2520%2520%2520%2520%2520com%252F699%252Fthumb-69905.png%2522%250A%2520%2520alt%253D%2522profile%2520image%2522%250A%2520%2520size%253D%252270px%2522%250A%2520%253E%253C%252FAvatar%253E"
           sandbox="allow-scripts allow-same-origin"
@@ -94,7 +94,7 @@ export default function AvatarDoc() {
       <br />
       <div className="code-container">
         <iframe
-          className="iframe-container"
+          className="iframe-container height-250"
           title="avatar"
           src="https://carbon.now.sh/embed?bg=rgba%28255%2C255%2C255%2C0.08%29&t=vscode&wt=none&l=jsx&ds=true&dsyoff=20px&dsblur=68px&wc=true&wa=true&pv=0px&ph=0px&ln=false&fl=1&fm=Hack&fs=12.5px&lh=133%25&si=false&es=1x&wm=false&code=%253CAvatar%250A%2520%2520src%253D%2522https%253A%252F%252Favatarfiles.alphacoders.%250A%2520%2520%2520%2520%2520%2520%2520com%252F699%252Fthumb-69905.png%2522%250A%2520%2520alt%253D%2522profile%2520image%2522%250A%2520%2520size%253D%252230px%2522%250A%2520%253E%253C%252FAvatar%253E%250A%253CAvatar%250A%2520%2520src%253D%2522https%253A%252F%252Favatarfiles.alphacoders.%250A%2520%2520%2520%2520%2520%2520%2520com%252F699%252Fthumb-69905.png%2522%250A%2520%2520alt%253D%2522profile%2520image%2522%250A%2520%2520size%253D%252250px%2522%250A%2520%253E%253C%252FAvatar%253E%250A%253CAvatar%250A%2520%2520src%253D%2522https%253A%252F%252Favatarfiles.alphacoders.%250A%2520%2520%2520%2520%2520%2520%2520com%252F699%252Fthumb-69905.png%2522%250A%2520%2520alt%253D%2522profile%2520image%2522%250A%2520%2520size%253D%252270px%2522%250A%2520%253E%253C%252FAvatar%253E"
           sandbox="allow-scripts allow-same-origin"

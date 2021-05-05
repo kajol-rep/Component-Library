@@ -188,14 +188,24 @@ body {
 .code-container {
   max-width: 800px;
   overflow: auto;
-  height: 200px;
 }
 .iframe-container {
   width: 100%;
-  height: auto;
   border: none;
   background-color: #fafafa;
   background-color: rgb(30, 30, 30);
+}
+.height-200 {
+  height: 200px;
+}
+.height-250 {
+  height: 250px;
+}
+.height-300 {
+  height: 300px;
+}
+.height-350 {
+  height: 350px;
 }
 .flex-row {
   display: flex;
@@ -232,10 +242,4 @@ body {
   border-right: 1rem solid transparent;
   border-top: 2rem solid rgb(195, 238, 6);
   mix-blend-mode: overlay;
-}
-.arrow-down1-lg {
-}
-.arrow-down2-lg {
-}
-.arrow-down3-lg {
 }
