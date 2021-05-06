@@ -4,7 +4,7 @@ import Badge from "../func_comp/Badge";
 export default function CardDoc() {
   return (
     <div>
-      <div className="heading bold-text">Card</div>
+      <div className="large-text bold-text">Card</div>
       <p>
         A card is a flexible and extensible content container. It includes
         options for headers and footers, a wide variety of content, contextual

@@ -3,7 +3,7 @@ import { FaCheckCircle, FaRegTimesCircle } from "react-icons/fa";
 export default function InputBoxDoc() {
   return (
     <div>
-      <div className="heading bold-text">Input box</div>
+      <div className="large-text bold-text">Input box</div>
       <p>
         We usually use input in order to take inputs from user to perform some
         action.

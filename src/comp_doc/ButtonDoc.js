@@ -9,7 +9,7 @@ import {
 export default function ButtonDoc() {
   return (
     <div>
-      <div className="heading bold-text">Button</div>
+      <div className="large-textbold-text">Button</div>
       <p>
         Buttons allow users to take actions, and make choices, with a single
         tap.

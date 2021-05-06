@@ -3,7 +3,7 @@ import Avatar from "../func_comp/Avatar";
 export default function AvatarDoc() {
   return (
     <div>
-      <div className="heading bold-text">Avatar</div>
+      <div className="large-text bold-text">Avatar</div>
       <p>
         The Avatar component is used to represent a user, and displays the
         profile picture, initials or fallback icon.

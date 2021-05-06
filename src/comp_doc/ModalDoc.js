@@ -10,7 +10,7 @@ export default function ModalDoc() {
 
   return (
     <div>
-      <div className="heading bold-text">Modal</div>
+      <div className="large-text bold-text">Modal</div>
       <p>
         A modal is a dialog box/popup window that is displayed on top of the
         current page, after some specified user interactivity.

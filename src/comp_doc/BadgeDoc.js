@@ -6,7 +6,7 @@ import "../componentStyle.css";
 export default function BadgeDoc() {
   return (
     <div>
-      <div className="heading bold-text">Badge</div>
+      <div className="large-text bold-text">Badge</div>
       <p>
         The Badge is used to add notifications, messages, or statuses in
         different shapes and sizes. The Badge component can be easily integrated
