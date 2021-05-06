@@ -40,10 +40,6 @@ export default function App() {
             <div className="arrow-down2-sm arrow-down2-left top position-absolute"></div>
             <div className="arrow-down3-sm arrow-down3-left top position-absolute"></div>
           </div>
-          <div className="medium-text pointer nav-item" onClick={handleClick}>
-            HOME
-          </div>
-
           <div
             onClick={() => setDarkMode(!darkMode)}
             className="medium-text pointer"
@@ -85,7 +81,11 @@ export default function App() {
           style={{ color: darkMode ? "white" : "black" }}
           className="medium-text padding-one"
         >
-          Components
+          <div onClick={handleClick} className="pointer">
+            Home
+          </div>
+          <br />
+          <div>Components</div>
         </div>
         <ul className="spaced-list list-style padding-one">
           {listOfComponents.map((i) => (

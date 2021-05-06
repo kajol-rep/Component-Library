@@ -113,7 +113,7 @@ body {
 }
 
 .sidebar {
-  max-width: 200px;
+  max-width: 220px;
   position: fixed;
   background: #eee;
   overflow: auto;
@@ -128,7 +128,7 @@ body {
 }
 .sidebar-dark-mode {
   background-color: rgb(30, 30, 30);
-  max-width: 200px;
+  max-width: 220px;
   position: fixed;
   overflow: auto;
   height: 100vh;

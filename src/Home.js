@@ -3,7 +3,7 @@ export default function Home() {
   return (
     <div>
       <div className="text-center">
-        <div className="heading bold-text">Welcome to Wrapit</div>
+        <div className="large-text bold-text">Welcome to Wrapit</div>
         <p className="medium-text">
           Build fast apps with Wrapit. Wrapit provides prebuild components and
           CSS library. You can access all of them here.

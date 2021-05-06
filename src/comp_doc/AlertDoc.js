@@ -4,7 +4,7 @@ import "../componentStyle.css";
 export default function AlertDoc() {
   return (
     <div>
-      <div className="heading bold-text">Alert</div>
+      <div className="large-text bold-text">Alert</div>
       <p>
         An alert displays a short, important message in a way that attracts the
         user's attention without interrupting the user's task.
